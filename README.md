@@ -35,3 +35,12 @@ This is a simple interface for stack implementations in Java. It defines the bas
 - **displayStack()**: Displays all elements in the stack.
 - **isOverflow() -> boolean**: Checks if the stack is full.
 - **isUnderflow() -> boolean**: Checks if the stack is empty.
+
+# Result Class Implementation
+
+The `Result` class extends the `Student` class and implements the `Exam` interface to calculate and display the result of a student.
+
+## Features
+
+- **percent_cal()**: Calculates the percentage of marks obtained by the student based on the marks in three exams.
+- **display()**: Displays the student's details along with the calculated result.
